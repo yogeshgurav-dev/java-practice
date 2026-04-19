@@ -1,0 +1,9 @@
+package com.physicswallah.core;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		System.out.println("First Java Program");
+	}
+
+}
