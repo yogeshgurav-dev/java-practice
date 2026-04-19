@@ -1,0 +1,9 @@
+package com.physicswallah.cmd;
+
+public class CMDARG {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
